@@ -1,0 +1,20 @@
+@charset 'utf8';
+
+body{
+	margin: 0;
+    background: #D8D8D8;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) ;
+	font-family: sans-serif;
+}
+
+form{
+	background: #FAFAFA;
+	padding: 50px;
+	border-width: medium;
+	border-style: solid;
+	border-color: gray;
+}
